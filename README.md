@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oi! Eu sou a Keila Prates 👋
 
-<!--
-**Prates05/Prates05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Sou nova na como Dev.
+- �  Estudando JavaScript.
+- 💌 Contate-me no Email: keiillaprates05@gmail.com
+- 😄 Pronomes:  Ela / Dela
+- 🇧🇷  Brasileira  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Prates05">
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=Prates05&show_icons=false&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prates05&layout=compact&langs_count=7&theme=dracula" />
+</div>
