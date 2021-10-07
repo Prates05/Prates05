@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Keila Prates 👋
 
 - 👩‍💻 Sou nova na como Dev.
-- �  Estudando JavaScript.
+- �  Estudando Front-End.
 - 💌 Contate-me no Email: keiillaprates05@gmail.com
 - 😄 Pronomes:  Ela / Dela
 - 🇧🇷  Brasileira  
